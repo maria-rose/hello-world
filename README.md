@@ -1,3 +1,3 @@
 # hello-world
 First try at creating a github repository
-This is a cool editor
+\n This is a cool editor
